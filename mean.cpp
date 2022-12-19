@@ -1,3 +1,5 @@
+// Program to calculate the mean of 'n' array elements, taking 'n' array elements as user input.
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -11,8 +13,8 @@ int main(){
         cin>>a[i];
         sum= sum+a[i];
     }
-    mean= (double)sum/n;
-    cout<<"enter the value of mean"<<mean;
+    mean= (double)sum/n;            // type casting, to change the data type explicitly to get correct value of mean
+    cout<<"The mean is = "<<mean;
 
     return 0;
 }
