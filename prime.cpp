@@ -1,7 +1,9 @@
+// Program to count the number of prime numbers in 'n' array elements.
+
 #include<iostream>
 using namespace std;
 
-//my prime function
+//my prime function, not inbuilt C++ function
 bool check_prime (int x){
     int i;
     if (x==1){
