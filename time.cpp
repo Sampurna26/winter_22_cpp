@@ -1,3 +1,5 @@
+// addition of 2 times using structure
+
 #include <iostream>
 using namespace std;
 struct st{
