@@ -1,3 +1,5 @@
+// mean of 1 to n without using loop 
+
 #include<iostream>
 using namespace std;
 int main(){
