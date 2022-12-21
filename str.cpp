@@ -1,3 +1,5 @@
+// printing the occurance of a using input string
+
 #include<iostream>
 using namespace std;
 int main(){
