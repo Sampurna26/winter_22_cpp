@@ -13,3 +13,14 @@ int main(){
    return 0;
    
 }
+
+
+/*
+output
+enter the value of n:5
+12345
+1234 
+123  
+12   
+1    */
+ 
