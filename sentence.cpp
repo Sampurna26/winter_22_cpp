@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     string str;
     int i,count=0;
-    cout<<"enter the elements in the string="<<str;
+    cout<<"enter the elements in the string=";
     getline(cin,str);
     int n=str.size();
     for(i=0;i<n;i++){
