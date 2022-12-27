@@ -1,3 +1,4 @@
+//counting the words in a sentence and printing the words in a separate line
 #include<iostream>
 using namespace std;
 int main(){
