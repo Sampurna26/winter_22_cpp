@@ -18,7 +18,7 @@ int main(){
         
     }
     cout<<endl;
-    cout<<"enter the no. of words="<<count+1;
+    cout<<"the no. of words="<<count+1;
 
 
     return 0;
