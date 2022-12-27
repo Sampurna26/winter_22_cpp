@@ -1,3 +1,4 @@
+// constructor overloading (class & objects)
 #include<iostream>
 using namespace std;
 class Shapes{
