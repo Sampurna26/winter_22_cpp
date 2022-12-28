@@ -1,3 +1,4 @@
+//here shape is the parent class and sqyare is the child class, square is being derived from shape
 #include<iostream>
 using namespace std;
 class shape{
