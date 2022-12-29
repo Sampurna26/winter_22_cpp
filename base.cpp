@@ -1,3 +1,4 @@
+// using virtual function & pointer
 #include<iostream>
 using namespace std;
 class Base{
